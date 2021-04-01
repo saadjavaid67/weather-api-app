@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="enter_city">Enter City</string>
+    <string name="search_button">Search Button</string>
+    <string name="current_temperature">Current Temperature:</string>
+    <string name="feels_like">Feels Like:</string>
+    <string name="minimum_temperature">Minimum Temperature:</string>
+    <string name="maximum_temperature">Maximum Temperature</string>
+    <string name="Please_enter_city">Please Enter your City!</string>
+</resources>
